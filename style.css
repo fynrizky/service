@@ -1,0 +1,58 @@
+.navbar-brand {
+    font-size: 40px;
+    font-weight: bold;
+}
+.nav-link{
+    margin-right: 40px;
+    font-size: 24px;
+    font-weight: bold;
+    z-index: 1;
+}
+.gbr1 {
+    width: 100%;
+    height: 400px;
+    margin-bottom: -20px;
+    background-image: url('gambar/Mesinaja.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.gbr2 {
+    width: 100%;
+    height: 400px;
+    margin-bottom: -20px;
+    background-image: url('gambar/Service.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.gbr3 {
+    width: 100%;
+    height: 400px;
+    margin-bottom: -20px;
+    background-image: url('gambar/mesincok.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.ttgkami{
+    text-align: justify;
+    text-indent: 40px;
+}
+
+html {
+    scroll-behavior: smooth;
+   }
+   
+   .section {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+   } 
+   .section:hover {
+    text-decoration: none;
+    color: black;
+   } 
+   
+   /* #pindah {
+   }  */
