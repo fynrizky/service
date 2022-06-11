@@ -1,0 +1,7 @@
+Aplikasi ini adalah aplikasi service mesin printer yang mempunyai 3 hak akses yaitu admin, teknisi dan pimpinan 
+dimana menampilkan menu halaman utama sebagai interface pelanggan, 
+pelanggan dapat melihat tabel data service, pelanggan bs mengecek status service dengan kode service.
+pada halaman yang hanya bs diakses admin, admin dapat menginput data service dan pembayaran...
+pada menu tersebut terdiri dari master data yaitu... user, pelanggan, teknisi dan part.
+dan ada hal laporannya juga.
+
